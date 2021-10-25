@@ -10,7 +10,7 @@
 - `cd matic_contracts`
 - `git checkout 718bf86fada5dbd2fedcea0184a59921a625f356` This is the last commit before it was fixed.
 - Install dependencies: `sudo apt install gcc g++ make python`
-- Install [nvm]
+- Install [nvm](https://github.com/nvm-sh/nvm)
 - `nvm install 8.11.3`
 - `nvm use 8.11.3`
 - `node --version` should be 8.11.3
